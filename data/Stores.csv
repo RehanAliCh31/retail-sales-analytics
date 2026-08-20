@@ -1,0 +1,21 @@
+StoreID,StoreName,City,Country,Region,StoreType,OpeningDate,StoreSizeSqFt
+S101,Lahore Plaza Store,Lahore,Pakistan,South Asia,Online-Hybrid,2018-02-14,7434
+S102,Karachi Downtown Store,Karachi,Pakistan,South Asia,Online-Hybrid,2021-03-24,10048
+S103,Islamabad Square Store,Islamabad,Pakistan,South Asia,Online-Hybrid,2020-08-14,11207
+S104,Faisalabad Mall Store,Faisalabad,Pakistan,South Asia,Mall Outlet,2020-02-09,8885
+S105,Multan Plaza Store,Multan,Pakistan,South Asia,Online-Hybrid,2019-06-01,9598
+S106,Dubai Downtown Store,Dubai,UAE,Middle East,Online-Hybrid,2020-04-12,5732
+S107,Abu Dhabi Mall Store,Abu Dhabi,UAE,Middle East,Standalone,2020-09-01,9964
+S108,Riyadh Central Store,Riyadh,Saudi Arabia,Middle East,Mall Outlet,2019-12-14,9504
+S109,Jeddah Plaza Store,Jeddah,Saudi Arabia,Middle East,Online-Hybrid,2019-08-26,1782
+S110,Doha Mall Store,Doha,Qatar,Middle East,Mall Outlet,2018-07-23,5486
+S111,London Square Store,London,UK,Europe,Standalone,2020-08-18,10198
+S112,Manchester Plaza Store,Manchester,UK,Europe,Standalone,2020-06-23,8934
+S113,Berlin Mall Store,Berlin,Germany,Europe,Standalone,2020-04-04,4655
+S114,Paris Central Store,Paris,France,Europe,Mall Outlet,2020-04-07,9433
+S115,Madrid Square Store,Madrid,Spain,Europe,Standalone,2020-02-27,4680
+S116,New York Downtown Store,New York,USA,North America,Standalone,2020-03-10,1731
+S117,Los Angeles Mall Store,Los Angeles,USA,North America,Flagship,2019-01-18,6286
+S118,Chicago Plaza Store,Chicago,USA,North America,Flagship,2019-01-19,6158
+S119,Toronto Plaza Store,Toronto,Canada,North America,Online-Hybrid,2021-06-06,2341
+S120,Vancouver Plaza Store,Vancouver,Canada,North America,Flagship,2020-02-13,9556

@@ -1,0 +1,229 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitCost,UnitPrice,LaunchYear
+P1000,Nova Mobile Phone 859,Electronics,Mobile Phones,Nova,151.69,369.51,2022
+P1001,TrueNorth Mobile Phone 328,Electronics,Mobile Phones,TrueNorth,293.6,580.82,2021
+P1002,PrimeLine Mobile Phone 792,Electronics,Mobile Phones,PrimeLine,64.94,91.1,2024
+P1003,UrbanEdge Mobile Phone 704,Electronics,Mobile Phones,UrbanEdge,26.06,60.62,2023
+P1004,Zentra Mobile Phone 130,Electronics,Mobile Phones,Zentra,241.64,512.4,2020
+P1005,Solace Mobile Phone 338,Electronics,Mobile Phones,Solace,11.17,27.49,2024
+P1006,Nova Laptop 674,Electronics,Laptops,Nova,333.48,492.23,2021
+P1007,Alpine Laptop 325,Electronics,Laptops,Alpine,75.18,108.14,2023
+P1008,Vertex Laptop 928,Electronics,Laptops,Vertex,123.78,232.98,2020
+P1009,MaxCore Laptop 814,Electronics,Laptops,MaxCore,174.48,275.43,2023
+P1010,Bright Path Laptop 384,Electronics,Laptops,Bright Path,245.91,339.69,2021
+P1011,Solace Laptop 881,Electronics,Laptops,Solace,118.98,199.44,2022
+P1012,PrimeLine Laptop 194,Electronics,Laptops,PrimeLine,184.06,408.75,2023
+P1013,PrimeLine Laptop 467,Electronics,Laptops,PrimeLine,82.27,153.72,2022
+P1014,Vertex Laptop 926,Electronics,Laptops,Vertex,238.19,300.21,2020
+P1015,Craftly Laptop 649,Electronics,Laptops,Craftly,244.2,347.17,2020
+P1016,UrbanEdge Headphone 665,Electronics,Headphones,UrbanEdge,28.83,70.16,2022
+P1017,Kindred Headphone 691,Electronics,Headphones,Kindred,386.36,869.66,2021
+P1018,UrbanEdge Headphone 146,Electronics,Headphones,UrbanEdge,123.93,164.45,2021
+P1019,Aura Headphone 181,Electronics,Headphones,Aura,274.64,486.72,2021
+P1020,PrimeLine Headphone 489,Electronics,Headphones,PrimeLine,51.45,94.86,2022
+P1021,Craftly Headphone 750,Electronics,Headphones,Craftly,16.65,39.66,2022
+P1022,MaxCore Headphone 479,Electronics,Headphones,MaxCore,105.74,217.96,2022
+P1023,Solace Headphone 786,Electronics,Headphones,Solace,126.75,237.79,2022
+P1024,UrbanEdge Headphone 723,Electronics,Headphones,UrbanEdge,220.04,316.93,2021
+P1025,TrueNorth Camera 267,Electronics,Cameras,TrueNorth,387.93,856.42,2023
+P1026,Metro Camera 376,Electronics,Cameras,Metro,375.98,888.54,2024
+P1027,TrueNorth Camera 801,Electronics,Cameras,TrueNorth,240.37,576.51,2022
+P1028,Zentra Camera 334,Electronics,Cameras,Zentra,38.13,55.47,2020
+P1029,Bright Path Camera 510,Electronics,Cameras,Bright Path,20.96,34.02,2022
+P1030,UrbanEdge Camera 316,Electronics,Cameras,UrbanEdge,157.3,244.25,2024
+P1031,Bright Path Camera 317,Electronics,Cameras,Bright Path,332.01,552.39,2023
+P1032,Metro Camera 758,Electronics,Cameras,Metro,114.53,218.24,2023
+P1033,EcoWear Camera 371,Electronics,Cameras,EcoWear,58.95,132.22,2021
+P1034,TrueNorth Camera 862,Electronics,Cameras,TrueNorth,32.6,80.94,2024
+P1035,Vertex Smart Watche 864,Electronics,Smart Watches,Vertex,309.58,451.47,2024
+P1036,Alpine Smart Watche 697,Electronics,Smart Watches,Alpine,5.19,11.73,2023
+P1037,Kindred Smart Watche 324,Electronics,Smart Watches,Kindred,283.62,609.13,2021
+P1038,Lumos Smart Watche 193,Electronics,Smart Watches,Lumos,309.19,400.79,2020
+P1039,PrimeLine Smart Watche 256,Electronics,Smart Watches,PrimeLine,145.31,196.26,2021
+P1040,Alpine Smart Watche 710,Electronics,Smart Watches,Alpine,345.65,694.86,2020
+P1041,Metro Smart Watche 490,Electronics,Smart Watches,Metro,134.37,172.35,2024
+P1042,Craftly Smart Watche 641,Electronics,Smart Watches,Craftly,126.46,205.21,2022
+P1043,Nova Smart Watche 796,Electronics,Smart Watches,Nova,292.65,593.74,2020
+P1044,Vertex Smart Watche 887,Electronics,Smart Watches,Vertex,355.22,644.33,2022
+P1045,Aura Accessorie 545,Electronics,Accessories,Aura,50.48,107.38,2021
+P1046,Craftly Accessorie 103,Electronics,Accessories,Craftly,305.03,588.6,2022
+P1047,MaxCore Accessorie 619,Electronics,Accessories,MaxCore,309.07,569.29,2020
+P1048,Aura Accessorie 961,Electronics,Accessories,Aura,210.52,369.63,2024
+P1049,Solace Accessorie 256,Electronics,Accessories,Solace,13.09,17.54,2022
+P1050,MaxCore Accessorie 652,Electronics,Accessories,MaxCore,15.48,31.38,2024
+P1051,Bright Path Men's Clothing 600,Apparel,Men's Clothing,Bright Path,127.8,237.85,2020
+P1052,PrimeLine Men's Clothing 471,Apparel,Men's Clothing,PrimeLine,363.3,553.7,2022
+P1053,TrueNorth Men's Clothing 159,Apparel,Men's Clothing,TrueNorth,165.92,362.07,2021
+P1054,UrbanEdge Men's Clothing 187,Apparel,Men's Clothing,UrbanEdge,93.83,121.99,2023
+P1055,UrbanEdge Men's Clothing 878,Apparel,Men's Clothing,UrbanEdge,118.03,166.37,2024
+P1056,EcoWear Men's Clothing 231,Apparel,Men's Clothing,EcoWear,372.09,837.41,2023
+P1057,MaxCore Women's Clothing 371,Apparel,Women's Clothing,MaxCore,254.46,593.63,2024
+P1058,Alpine Women's Clothing 316,Apparel,Women's Clothing,Alpine,322.06,464.58,2024
+P1059,Solace Women's Clothing 830,Apparel,Women's Clothing,Solace,357.35,679.37,2022
+P1060,Metro Women's Clothing 787,Apparel,Women's Clothing,Metro,323.55,765.17,2022
+P1061,Craftly Women's Clothing 629,Apparel,Women's Clothing,Craftly,129.25,173.59,2023
+P1062,PrimeLine Women's Clothing 353,Apparel,Women's Clothing,PrimeLine,93.49,164.1,2021
+P1063,UrbanEdge Women's Clothing 446,Apparel,Women's Clothing,UrbanEdge,327.75,760.04,2020
+P1064,TrueNorth Women's Clothing 702,Apparel,Women's Clothing,TrueNorth,5.76,10.74,2021
+P1065,Nova Women's Clothing 172,Apparel,Women's Clothing,Nova,168.71,251.17,2020
+P1066,TrueNorth Women's Clothing 169,Apparel,Women's Clothing,TrueNorth,50.59,82.91,2020
+P1067,UrbanEdge Kids Wear 626,Apparel,Kids Wear,UrbanEdge,377.34,611.35,2021
+P1068,Vertex Kids Wear 785,Apparel,Kids Wear,Vertex,208.96,441.73,2023
+P1069,Solace Kids Wear 652,Apparel,Kids Wear,Solace,147.36,362.99,2021
+P1070,Lumos Kids Wear 348,Apparel,Kids Wear,Lumos,385.09,588.15,2023
+P1071,Alpine Kids Wear 294,Apparel,Kids Wear,Alpine,200.41,318.88,2020
+P1072,PrimeLine Kids Wear 774,Apparel,Kids Wear,PrimeLine,116.08,144.86,2023
+P1073,Kindred Kids Wear 533,Apparel,Kids Wear,Kindred,245.0,454.1,2023
+P1074,Craftly Kids Wear 984,Apparel,Kids Wear,Craftly,23.44,36.62,2020
+P1075,Zentra Footwear 512,Apparel,Footwear,Zentra,363.58,549.53,2022
+P1076,PrimeLine Footwear 354,Apparel,Footwear,PrimeLine,60.52,111.13,2021
+P1077,Solace Footwear 649,Apparel,Footwear,Solace,394.3,597.24,2023
+P1078,EcoWear Footwear 532,Apparel,Footwear,EcoWear,269.84,590.98,2021
+P1079,Vertex Footwear 573,Apparel,Footwear,Vertex,97.34,208.96,2021
+P1080,UrbanEdge Footwear 553,Apparel,Footwear,UrbanEdge,149.01,301.3,2024
+P1081,Zentra Winter Wear 767,Apparel,Winter Wear,Zentra,254.51,482.68,2024
+P1082,Nova Winter Wear 195,Apparel,Winter Wear,Nova,38.85,88.81,2021
+P1083,MaxCore Winter Wear 516,Apparel,Winter Wear,MaxCore,130.35,188.03,2023
+P1084,Lumos Winter Wear 318,Apparel,Winter Wear,Lumos,19.19,37.77,2023
+P1085,Zentra Winter Wear 268,Apparel,Winter Wear,Zentra,271.99,332.25,2023
+P1086,Nova Winter Wear 499,Apparel,Winter Wear,Nova,206.3,308.3,2022
+P1087,Aura Cookware 533,Home & Kitchen,Cookware,Aura,259.13,369.69,2024
+P1088,Lumos Cookware 258,Home & Kitchen,Cookware,Lumos,277.3,472.17,2021
+P1089,Aura Cookware 322,Home & Kitchen,Cookware,Aura,374.88,516.88,2020
+P1090,Zentra Cookware 865,Home & Kitchen,Cookware,Zentra,138.4,186.5,2022
+P1091,Zentra Cookware 151,Home & Kitchen,Cookware,Zentra,370.1,866.23,2024
+P1092,Lumos Cookware 614,Home & Kitchen,Cookware,Lumos,105.4,216.91,2024
+P1093,MaxCore Cookware 158,Home & Kitchen,Cookware,MaxCore,327.44,629.26,2024
+P1094,UrbanEdge Cookware 971,Home & Kitchen,Cookware,UrbanEdge,213.27,322.98,2021
+P1095,UrbanEdge Cookware 709,Home & Kitchen,Cookware,UrbanEdge,39.96,94.56,2020
+P1096,Metro Furniture 222,Home & Kitchen,Furniture,Metro,360.47,729.24,2024
+P1097,TrueNorth Furniture 692,Home & Kitchen,Furniture,TrueNorth,137.59,227.57,2024
+P1098,Zentra Furniture 734,Home & Kitchen,Furniture,Zentra,291.2,689.05,2020
+P1099,Alpine Furniture 773,Home & Kitchen,Furniture,Alpine,355.17,786.29,2024
+P1100,Bright Path Furniture 367,Home & Kitchen,Furniture,Bright Path,257.89,337.68,2021
+P1101,Bright Path Furniture 344,Home & Kitchen,Furniture,Bright Path,67.17,159.07,2022
+P1102,Metro Furniture 234,Home & Kitchen,Furniture,Metro,243.75,295.41,2022
+P1103,Bright Path Home Decor 869,Home & Kitchen,Home Decor,Bright Path,43.28,89.27,2020
+P1104,Nova Home Decor 569,Home & Kitchen,Home Decor,Nova,5.01,7.06,2024
+P1105,PrimeLine Home Decor 175,Home & Kitchen,Home Decor,PrimeLine,220.85,463.67,2024
+P1106,Solace Home Decor 618,Home & Kitchen,Home Decor,Solace,261.83,390.53,2022
+P1107,EcoWear Home Decor 457,Home & Kitchen,Home Decor,EcoWear,285.74,431.02,2020
+P1108,TrueNorth Home Decor 478,Home & Kitchen,Home Decor,TrueNorth,132.18,286.89,2022
+P1109,MaxCore Home Decor 548,Home & Kitchen,Home Decor,MaxCore,260.9,601.11,2024
+P1110,Aura Home Decor 726,Home & Kitchen,Home Decor,Aura,264.07,511.98,2024
+P1111,Nova Home Decor 783,Home & Kitchen,Home Decor,Nova,40.19,67.44,2024
+P1112,PrimeLine Storage 999,Home & Kitchen,Storage,PrimeLine,108.29,164.3,2021
+P1113,Vertex Storage 218,Home & Kitchen,Storage,Vertex,389.29,666.09,2020
+P1114,EcoWear Storage 378,Home & Kitchen,Storage,EcoWear,357.14,721.59,2022
+P1115,Solace Storage 834,Home & Kitchen,Storage,Solace,318.54,590.39,2022
+P1116,Solace Storage 803,Home & Kitchen,Storage,Solace,232.03,427.0,2022
+P1117,Lumos Storage 357,Home & Kitchen,Storage,Lumos,80.51,172.23,2020
+P1118,UrbanEdge Storage 749,Home & Kitchen,Storage,UrbanEdge,114.47,140.98,2023
+P1119,Vertex Storage 145,Home & Kitchen,Storage,Vertex,259.25,370.79,2020
+P1120,EcoWear Small Appliance 752,Home & Kitchen,Small Appliances,EcoWear,376.36,918.36,2022
+P1121,MaxCore Small Appliance 859,Home & Kitchen,Small Appliances,MaxCore,366.2,615.66,2023
+P1122,Alpine Small Appliance 674,Home & Kitchen,Small Appliances,Alpine,9.14,22.0,2020
+P1123,PrimeLine Small Appliance 177,Home & Kitchen,Small Appliances,PrimeLine,172.99,424.98,2021
+P1124,Zentra Small Appliance 954,Home & Kitchen,Small Appliances,Zentra,385.56,890.22,2022
+P1125,EcoWear Small Appliance 540,Home & Kitchen,Small Appliances,EcoWear,119.9,203.91,2021
+P1126,Zentra Small Appliance 415,Home & Kitchen,Small Appliances,Zentra,340.9,549.53,2022
+P1127,Zentra Small Appliance 466,Home & Kitchen,Small Appliances,Zentra,70.29,135.23,2021
+P1128,PrimeLine Beverage 462,Groceries,Beverages,PrimeLine,374.65,788.58,2024
+P1129,Alpine Beverage 735,Groceries,Beverages,Alpine,229.31,304.14,2021
+P1130,TrueNorth Beverage 985,Groceries,Beverages,TrueNorth,247.16,614.7,2021
+P1131,MaxCore Beverage 522,Groceries,Beverages,MaxCore,58.61,109.83,2020
+P1132,MaxCore Beverage 854,Groceries,Beverages,MaxCore,351.32,759.9,2022
+P1133,Alpine Beverage 921,Groceries,Beverages,Alpine,279.72,591.11,2021
+P1134,Vertex Beverage 263,Groceries,Beverages,Vertex,145.72,230.48,2020
+P1135,Zentra Snack 979,Groceries,Snacks,Zentra,324.32,730.74,2023
+P1136,TrueNorth Snack 304,Groceries,Snacks,TrueNorth,347.23,828.91,2023
+P1137,Kindred Snack 412,Groceries,Snacks,Kindred,206.0,381.51,2021
+P1138,TrueNorth Snack 124,Groceries,Snacks,TrueNorth,319.92,654.22,2021
+P1139,Metro Snack 436,Groceries,Snacks,Metro,281.68,629.42,2022
+P1140,UrbanEdge Snack 891,Groceries,Snacks,UrbanEdge,356.33,584.17,2022
+P1141,Kindred Snack 756,Groceries,Snacks,Kindred,152.11,201.12,2024
+P1142,Metro Snack 795,Groceries,Snacks,Metro,232.58,289.96,2024
+P1143,Bright Path Snack 128,Groceries,Snacks,Bright Path,187.84,357.92,2020
+P1144,MaxCore Dairy 694,Groceries,Dairy,MaxCore,116.76,229.79,2022
+P1145,Zentra Dairy 211,Groceries,Dairy,Zentra,15.11,18.87,2024
+P1146,Alpine Dairy 453,Groceries,Dairy,Alpine,329.57,549.8,2022
+P1147,Alpine Dairy 720,Groceries,Dairy,Alpine,53.44,100.41,2024
+P1148,PrimeLine Dairy 494,Groceries,Dairy,PrimeLine,308.69,457.04,2024
+P1149,Solace Dairy 360,Groceries,Dairy,Solace,250.29,328.12,2020
+P1150,Alpine Dairy 101,Groceries,Dairy,Alpine,23.52,44.47,2024
+P1151,Solace Dairy 472,Groceries,Dairy,Solace,217.63,441.5,2023
+P1152,Bright Path Bakery 738,Groceries,Bakery,Bright Path,291.26,719.01,2022
+P1153,PrimeLine Bakery 837,Groceries,Bakery,PrimeLine,207.97,336.88,2022
+P1154,Aura Bakery 782,Groceries,Bakery,Aura,318.69,494.63,2023
+P1155,Bright Path Bakery 512,Groceries,Bakery,Bright Path,177.27,230.8,2022
+P1156,EcoWear Bakery 296,Groceries,Bakery,EcoWear,13.06,32.02,2023
+P1157,Metro Bakery 793,Groceries,Bakery,Metro,334.88,704.84,2021
+P1158,Aura Frozen Food 515,Groceries,Frozen Foods,Aura,165.35,235.67,2024
+P1159,Nova Frozen Food 411,Groceries,Frozen Foods,Nova,65.11,99.31,2022
+P1160,Solace Frozen Food 540,Groceries,Frozen Foods,Solace,221.04,470.59,2024
+P1161,Bright Path Frozen Food 576,Groceries,Frozen Foods,Bright Path,265.1,414.59,2023
+P1162,Craftly Frozen Food 791,Groceries,Frozen Foods,Craftly,382.08,825.01,2021
+P1163,Lumos Frozen Food 912,Groceries,Frozen Foods,Lumos,223.08,445.1,2021
+P1164,UrbanEdge Frozen Food 390,Groceries,Frozen Foods,UrbanEdge,169.58,258.11,2024
+P1165,Bright Path Frozen Food 195,Groceries,Frozen Foods,Bright Path,144.32,315.37,2021
+P1166,Aura Frozen Food 330,Groceries,Frozen Foods,Aura,8.71,11.77,2021
+P1167,EcoWear Frozen Food 125,Groceries,Frozen Foods,EcoWear,21.26,26.64,2020
+P1168,Lumos Gym Equipment 725,Sports & Fitness,Gym Equipment,Lumos,342.62,724.56,2020
+P1169,Craftly Gym Equipment 524,Sports & Fitness,Gym Equipment,Craftly,191.25,253.82,2024
+P1170,Solace Gym Equipment 835,Sports & Fitness,Gym Equipment,Solace,198.17,359.78,2023
+P1171,Lumos Gym Equipment 509,Sports & Fitness,Gym Equipment,Lumos,71.76,126.59,2021
+P1172,EcoWear Gym Equipment 771,Sports & Fitness,Gym Equipment,EcoWear,161.21,322.52,2020
+P1173,PrimeLine Gym Equipment 897,Sports & Fitness,Gym Equipment,PrimeLine,255.13,321.18,2023
+P1174,TrueNorth Gym Equipment 280,Sports & Fitness,Gym Equipment,TrueNorth,151.72,305.51,2024
+P1175,Zentra Sportswear 670,Sports & Fitness,Sportswear,Zentra,202.75,469.05,2021
+P1176,PrimeLine Sportswear 567,Sports & Fitness,Sportswear,PrimeLine,264.5,373.43,2021
+P1177,Craftly Sportswear 783,Sports & Fitness,Sportswear,Craftly,31.02,63.13,2024
+P1178,Bright Path Sportswear 873,Sports & Fitness,Sportswear,Bright Path,13.52,26.52,2023
+P1179,Alpine Sportswear 950,Sports & Fitness,Sportswear,Alpine,376.27,733.02,2024
+P1180,Craftly Sportswear 262,Sports & Fitness,Sportswear,Craftly,157.1,319.9,2023
+P1181,Craftly Sportswear 365,Sports & Fitness,Sportswear,Craftly,184.93,353.09,2021
+P1182,Vertex Sportswear 884,Sports & Fitness,Sportswear,Vertex,376.76,641.22,2024
+P1183,Lumos Sportswear 741,Sports & Fitness,Sportswear,Lumos,384.59,914.15,2021
+P1184,Craftly Outdoor Gear 179,Sports & Fitness,Outdoor Gear,Craftly,80.73,104.16,2022
+P1185,TrueNorth Outdoor Gear 378,Sports & Fitness,Outdoor Gear,TrueNorth,43.01,52.63,2022
+P1186,Bright Path Outdoor Gear 653,Sports & Fitness,Outdoor Gear,Bright Path,40.49,84.54,2020
+P1187,EcoWear Outdoor Gear 254,Sports & Fitness,Outdoor Gear,EcoWear,31.26,50.47,2021
+P1188,Metro Outdoor Gear 810,Sports & Fitness,Outdoor Gear,Metro,338.42,416.34,2021
+P1189,Solace Outdoor Gear 165,Sports & Fitness,Outdoor Gear,Solace,326.34,511.18,2023
+P1190,Alpine Outdoor Gear 438,Sports & Fitness,Outdoor Gear,Alpine,49.91,105.1,2024
+P1191,Craftly Outdoor Gear 525,Sports & Fitness,Outdoor Gear,Craftly,252.69,591.47,2020
+P1192,Alpine Cycling 498,Sports & Fitness,Cycling,Alpine,294.82,661.73,2024
+P1193,Nova Cycling 977,Sports & Fitness,Cycling,Nova,114.97,164.48,2024
+P1194,Metro Cycling 588,Sports & Fitness,Cycling,Metro,300.99,676.89,2020
+P1195,Kindred Cycling 405,Sports & Fitness,Cycling,Kindred,396.23,688.01,2023
+P1196,Alpine Cycling 651,Sports & Fitness,Cycling,Alpine,150.69,332.92,2024
+P1197,TrueNorth Cycling 599,Sports & Fitness,Cycling,TrueNorth,138.3,333.3,2021
+P1198,Vertex Cycling 546,Sports & Fitness,Cycling,Vertex,343.79,604.28,2023
+P1199,Metro Skincare 444,Beauty & Personal Care,Skincare,Metro,301.1,656.67,2023
+P1200,MaxCore Skincare 960,Beauty & Personal Care,Skincare,MaxCore,43.94,104.28,2023
+P1201,EcoWear Skincare 737,Beauty & Personal Care,Skincare,EcoWear,203.59,463.04,2024
+P1202,Nova Skincare 503,Beauty & Personal Care,Skincare,Nova,130.06,307.49,2024
+P1203,Nova Skincare 185,Beauty & Personal Care,Skincare,Nova,157.51,191.23,2023
+P1204,EcoWear Skincare 987,Beauty & Personal Care,Skincare,EcoWear,362.44,477.94,2023
+P1205,Zentra Haircare 366,Beauty & Personal Care,Haircare,Zentra,129.77,316.0,2023
+P1206,Bright Path Haircare 316,Beauty & Personal Care,Haircare,Bright Path,380.39,740.04,2023
+P1207,Bright Path Haircare 445,Beauty & Personal Care,Haircare,Bright Path,253.84,452.59,2023
+P1208,Vertex Haircare 870,Beauty & Personal Care,Haircare,Vertex,119.4,194.3,2023
+P1209,Vertex Haircare 954,Beauty & Personal Care,Haircare,Vertex,269.99,588.06,2020
+P1210,Lumos Haircare 119,Beauty & Personal Care,Haircare,Lumos,317.26,706.38,2024
+P1211,Zentra Haircare 458,Beauty & Personal Care,Haircare,Zentra,39.21,72.25,2021
+P1212,Zentra Makeup 872,Beauty & Personal Care,Makeup,Zentra,25.85,49.49,2020
+P1213,TrueNorth Makeup 304,Beauty & Personal Care,Makeup,TrueNorth,178.29,419.7,2020
+P1214,EcoWear Makeup 344,Beauty & Personal Care,Makeup,EcoWear,142.31,192.43,2021
+P1215,Lumos Makeup 785,Beauty & Personal Care,Makeup,Lumos,59.77,130.89,2020
+P1216,Solace Makeup 576,Beauty & Personal Care,Makeup,Solace,248.43,330.77,2022
+P1217,Kindred Makeup 271,Beauty & Personal Care,Makeup,Kindred,36.39,76.83,2024
+P1218,PrimeLine Fragrance 896,Beauty & Personal Care,Fragrances,PrimeLine,31.89,72.34,2021
+P1219,Aura Fragrance 210,Beauty & Personal Care,Fragrances,Aura,283.38,370.02,2024
+P1220,Nova Fragrance 419,Beauty & Personal Care,Fragrances,Nova,36.68,91.06,2024
+P1221,Metro Fragrance 506,Beauty & Personal Care,Fragrances,Metro,151.59,254.95,2021
+P1222,UrbanEdge Fragrance 706,Beauty & Personal Care,Fragrances,UrbanEdge,325.68,791.87,2021
+P1223,PrimeLine Fragrance 813,Beauty & Personal Care,Fragrances,PrimeLine,394.44,859.64,2022
+P1224,PrimeLine Fragrance 915,Beauty & Personal Care,Fragrances,PrimeLine,152.38,199.4,2024
+P1225,Zentra Fragrance 455,Beauty & Personal Care,Fragrances,Zentra,311.53,599.98,2024
+P1226,Alpine Fragrance 777,Beauty & Personal Care,Fragrances,Alpine,171.42,407.68,2022
+P1227,UrbanEdge Fragrance 618,Beauty & Personal Care,Fragrances,UrbanEdge,47.15,86.78,2022

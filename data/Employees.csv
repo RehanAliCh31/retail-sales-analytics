@@ -1,0 +1,114 @@
+EmployeeID,EmployeeName,StoreID,Position,HireDate,Gender
+E2001,John Malik,S101,Cashier,2023-03-26,Female
+E2002,Mariam Siddiqui,S101,Assistant Manager,2019-10-20,Male
+E2003,Tariq Davis,S101,Cashier,2023-05-28,Female
+E2004,Faisal Lewis,S101,Store Manager,2021-10-24,Male
+E2005,Usman Chaudhry,S102,Sales Associate,2024-03-08,Male
+E2006,Ahmed Iqbal,S102,Store Manager,2023-07-15,Female
+E2007,Sara Butt,S102,Sales Associate,2021-12-10,Female
+E2008,Emily Butt,S102,Sales Associate,2019-11-19,Male
+E2009,Ayesha Anderson,S102,Inventory Officer,2022-11-05,Female
+E2010,Sara Iqbal,S103,Sales Associate,2019-10-24,Female
+E2011,Ayesha Davis,S103,Sales Associate,2022-12-13,Female
+E2012,Amina Miller,S103,Cashier,2023-02-20,Male
+E2013,Sophia Smith,S103,Sales Associate,2022-01-03,Male
+E2014,James Clark,S103,Store Manager,2024-11-27,Female
+E2015,Sana Wilson,S104,Cashier,2020-05-06,Female
+E2016,James Miller,S104,Sales Associate,2024-08-12,Female
+E2017,Omar Siddiqui,S104,Cashier,2021-06-14,Female
+E2018,Emily Brown,S104,Store Manager,2021-08-03,Female
+E2019,Ayesha Brown,S105,Store Manager,2021-11-28,Female
+E2020,Sara Shah,S105,Sales Associate,2022-10-25,Female
+E2021,Kamran Malik,S105,Inventory Officer,2024-05-18,Male
+E2022,Kamran Miller,S105,Sales Associate,2021-01-21,Male
+E2023,Hina Farooq,S105,Store Manager,2024-09-14,Male
+E2024,James Siddiqui,S105,Cashier,2020-02-21,Male
+E2025,Zara Wilson,S106,Sales Associate,2024-07-27,Female
+E2026,Mariam Davis,S106,Cashier,2022-07-07,Male
+E2027,Hassan Williams,S106,Sales Associate,2019-09-09,Male
+E2028,Sophia Farooq,S106,Cashier,2021-03-15,Female
+E2029,Omar Anderson,S106,Assistant Manager,2021-08-11,Male
+E2030,Mariam Clark,S106,Assistant Manager,2024-04-28,Female
+E2031,Omar Miller,S106,Assistant Manager,2019-07-22,Male
+E2032,Bilal Wilson,S107,Sales Associate,2019-02-28,Female
+E2033,Imran Davis,S107,Store Manager,2019-12-05,Female
+E2034,Bilal Ahmed,S107,Cashier,2024-05-11,Female
+E2035,Ahmed Smith,S107,Assistant Manager,2024-06-21,Female
+E2036,Sara Lewis,S107,Sales Associate,2023-04-21,Female
+E2037,Sophia Ahmed,S107,Assistant Manager,2020-02-25,Male
+E2038,Hina Farooq,S107,Store Manager,2022-01-11,Male
+E2039,Fatima Williams,S108,Cashier,2021-04-17,Female
+E2040,Emily Iqbal,S108,Cashier,2023-03-03,Female
+E2041,Emily Butt,S108,Cashier,2023-10-05,Male
+E2042,John Chaudhry,S108,Cashier,2022-05-22,Male
+E2043,Daniel Farooq,S108,Cashier,2022-02-15,Female
+E2044,Zara Williams,S108,Sales Associate,2023-08-28,Female
+E2045,Emma Miller,S109,Sales Associate,2022-04-13,Female
+E2046,Zara Farooq,S109,Store Manager,2023-11-13,Female
+E2047,Faisal Malik,S109,Cashier,2019-05-25,Male
+E2048,Olivia Johnson,S109,Inventory Officer,2023-11-07,Female
+E2049,David Raza,S109,Sales Associate,2024-11-21,Male
+E2050,Sara Clark,S110,Sales Associate,2022-12-05,Male
+E2051,Omar Williams,S110,Cashier,2021-04-05,Female
+E2052,Imran Chaudhry,S110,Cashier,2023-05-27,Female
+E2053,Sophia Smith,S110,Sales Associate,2021-08-03,Male
+E2054,Emma Brown,S110,Sales Associate,2020-02-26,Female
+E2055,Hassan Anderson,S110,Sales Associate,2019-08-12,Female
+E2056,Fatima Siddiqui,S111,Inventory Officer,2024-08-01,Female
+E2057,Mariam Ahmed,S111,Cashier,2023-12-10,Female
+E2058,Bilal Malik,S111,Store Manager,2019-05-16,Male
+E2059,Mariam Anderson,S111,Cashier,2019-07-15,Female
+E2060,Sophia Anderson,S111,Assistant Manager,2024-10-24,Male
+E2061,John Siddiqui,S111,Cashier,2022-10-14,Female
+E2062,Michael Johnson,S111,Inventory Officer,2019-08-15,Male
+E2063,Emily Johnson,S112,Sales Associate,2019-01-13,Female
+E2064,Ayesha Davis,S112,Sales Associate,2020-11-07,Male
+E2065,Olivia Smith,S112,Inventory Officer,2019-03-26,Male
+E2066,James Anderson,S112,Inventory Officer,2019-10-07,Male
+E2067,David Raza,S112,Store Manager,2021-05-28,Male
+E2068,Amina Chaudhry,S112,Cashier,2020-02-22,Male
+E2069,Fatima Butt,S113,Sales Associate,2019-01-06,Female
+E2070,Bilal Williams,S113,Sales Associate,2019-12-03,Female
+E2071,David Johnson,S113,Sales Associate,2022-08-17,Male
+E2072,Sara Wilson,S113,Sales Associate,2023-08-21,Male
+E2073,Sana Brown,S113,Assistant Manager,2019-11-04,Female
+E2074,Daniel Ahmed,S114,Sales Associate,2019-10-05,Male
+E2075,Hassan Lewis,S114,Sales Associate,2020-07-20,Female
+E2076,Imran Lewis,S114,Assistant Manager,2022-02-26,Male
+E2077,John Anderson,S114,Inventory Officer,2024-07-15,Male
+E2078,Omar Davis,S114,Assistant Manager,2022-07-24,Male
+E2079,Noor Smith,S114,Sales Associate,2021-06-05,Female
+E2080,Ahmed Ahmed,S114,Sales Associate,2019-07-04,Female
+E2081,Sara Clark,S115,Sales Associate,2023-11-04,Female
+E2082,Emma Williams,S115,Store Manager,2021-05-20,Female
+E2083,Ayesha Clark,S115,Inventory Officer,2021-03-22,Female
+E2084,Emma Siddiqui,S115,Sales Associate,2020-09-12,Male
+E2085,Faisal Butt,S115,Assistant Manager,2021-09-25,Male
+E2086,Hina Chaudhry,S116,Sales Associate,2019-06-12,Male
+E2087,Emma Raza,S116,Assistant Manager,2020-02-05,Male
+E2088,Sophia Wilson,S116,Inventory Officer,2019-07-14,Female
+E2089,Hina Johnson,S116,Sales Associate,2021-12-11,Male
+E2090,Bilal Iqbal,S116,Store Manager,2019-11-03,Female
+E2091,Emily Williams,S116,Cashier,2022-10-15,Female
+E2092,David Wilson,S117,Sales Associate,2020-06-14,Male
+E2093,Emily Clark,S117,Cashier,2021-09-22,Female
+E2094,Mariam Brown,S117,Store Manager,2019-01-07,Female
+E2095,David Raza,S117,Sales Associate,2020-05-11,Male
+E2096,Sana Williams,S117,Cashier,2019-03-13,Male
+E2097,Amina Johnson,S117,Sales Associate,2023-07-28,Male
+E2098,Kamran Ahmed,S118,Sales Associate,2019-10-14,Female
+E2099,John Williams,S118,Sales Associate,2024-02-13,Male
+E2100,Hina Lewis,S118,Cashier,2021-12-12,Male
+E2101,Emma Siddiqui,S118,Inventory Officer,2022-07-19,Female
+E2102,Ahmed Brown,S118,Sales Associate,2023-12-11,Male
+E2103,David Iqbal,S118,Sales Associate,2021-09-21,Male
+E2104,Imran Shah,S118,Sales Associate,2023-06-24,Male
+E2105,Bilal Chaudhry,S119,Inventory Officer,2019-03-20,Male
+E2106,Ahmed Iqbal,S119,Cashier,2024-08-25,Female
+E2107,Ava Clark,S119,Sales Associate,2024-11-11,Male
+E2108,Ahmed Miller,S119,Cashier,2022-11-10,Female
+E2109,Sara Johnson,S119,Sales Associate,2023-05-15,Female
+E2110,Fatima Farooq,S120,Sales Associate,2019-11-28,Male
+E2111,Laila Wilson,S120,Assistant Manager,2023-08-19,Male
+E2112,Ava Clark,S120,Inventory Officer,2022-06-20,Female
+E2113,Bilal Malik,S120,Cashier,2023-02-26,Female
